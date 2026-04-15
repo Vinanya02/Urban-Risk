@@ -21,7 +21,7 @@ Libraries: Streamlit, Folium, Geopandas, Pandas, NumPy
 Mapping: OpenStreetMap / Leaflet
 📂 Installation & Setup
 1.Clone the repository:
-git remote add origin https://github.com/Vinanya02/urban-risk-map.git
+https://github.com/Vinanya02/Urban-Risk
 cd urban-risk-map
 2.Create a virtual environment:
 python -m venv venv
